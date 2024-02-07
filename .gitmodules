@@ -1,0 +1,9 @@
+[submodule "Brute_Force_and_Dynamic_Programming"]
+	path = Brute_Force_and_Dynamic_Programming
+	url = https://github.com/Jocho14/Pea_projekt_1.git
+[submodule "Simulated_annealing"]
+	path = Simulated_annealing
+	url = https://github.com/Jocho14/Pea_projekt_2.git
+[submodule "Genetic_algorithm"]
+	path = Genetic_algorithm
+	url = https://github.com/Jocho14/Projekt_pea_3.git
